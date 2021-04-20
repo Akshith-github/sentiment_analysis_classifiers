@@ -1,5 +1,5 @@
 # sentiment_analysis_classifiers
-A demo of various models application for sentiment classification
+A demo implementations of various models application for sentiment classification
 
 For the dataset of the conv-lstm model execution.. checkout https://www.kaggle.com/monsterspy/conv-lstm-sentiment-analysis-keras-acc-0-96/notebook?select=Reviews.csv
 
